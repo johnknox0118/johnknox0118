@@ -84,8 +84,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnknox0118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnknox0118&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=johnknox0118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=johnknox0118&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=johnknox0118&theme=tokyonight&hide_border=true)
 
 </div>
@@ -96,7 +97,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=johnknox0118&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy-unserori.vercel.app/?username=johnknox0118&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
